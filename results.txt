@@ -1,0 +1,58 @@
+RESULTADOS DOS SIMULADORES DOS ALGORITMOS:
+
+
+-Algoritmo FCFS:
+Tempo medio de execucao:
+    8.0
+Tempo medio de espera:
+    5.2
+Trocas de contexto:
+    4
+
+-Algoritmo RR:
+Tempo medio de execucao:
+    8.4
+Tempo medio de espera:
+    5.6
+Trocas de contexto:
+    7
+
+-Algoritmo SJF:
+Tempo medio de execucao:
+    5.8
+Tempo medio de espera:
+    3.0
+Trocas de contexto:
+    4
+
+-Algoritmo SRTF:
+Tempo medio de execucao:
+    5.4
+Tempo medio de espera:
+    2.6
+Trocas de contexto:
+    5
+
+-Algoritmo PRIOc:
+Tempo medio de execucao:
+    6.6
+Tempo medio de espera:
+    3.8
+Trocas de contexto:
+    4
+
+-Algoritmo PRIOp:
+Tempo medio de execucao:
+    5.6
+Tempo medio de espera:
+    2.8
+Trocas de contexto:
+    6
+
+-Algoritmo PRIOd:
+Tempo medio de execucao:
+    5.8
+Tempo medio de espera:
+    3.0
+Trocas de contexto:
+    6
